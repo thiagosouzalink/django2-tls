@@ -1,0 +1,15 @@
+__pycache__
+
+*.*~
+
+*.pyc 
+
+.idea
+
+info.txt
+
+/vdjango2
+
+/staticfiles
+
+/.vscode
